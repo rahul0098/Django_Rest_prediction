@@ -3,6 +3,7 @@ asgiref==3.2.7
 astor==0.8.1
 Django==3.0.5
 djangorestframework==3.11.0
+djangorestframework-simplejwt==4.4.0
 gast==0.3.3
 google-pasta==0.2.0
 grpcio==1.28.1
@@ -14,6 +15,7 @@ numpy==1.18.3
 opencv-python==4.2.0.34
 pkg-resources==0.0.0
 protobuf==3.11.3
+PyJWT==1.7.1
 pytz==2019.3
 six==1.14.0
 sqlparse==0.3.1
